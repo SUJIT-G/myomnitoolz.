@@ -1,4 +1,4 @@
-# For most projects, this workflow file will not need changing; you simply need
+[![.github/workflows/codeql.yml](https://github.com/SUJIT-G/myomnitoolz./actions/workflows/codeql.yml/badge.svg?branch=main&event=create)](https://github.com/SUJIT-G/myomnitoolz./actions/workflows/codeql.yml)# For most projects, this workflow file will not need changing; you simply need
 # to commit it to your repository.
 #
 # You may wish to alter this file to override the set of languages analyzed,
